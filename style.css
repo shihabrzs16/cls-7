@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.xtra{
+    width: 750px;
+    height: 500px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    box-shadow: 2px 5px 20px #ad75db;
+}
+.form{
+    width: 400px;
+}
+h1{
+    text-align: center;
+    padding: 15px;
+}
+input{
+    padding: 15px;
+}
+::placeholder{
+    font-size: 16px;
+    font-weight: 600;
+}
+.user{
+    border: 2px solid rgb(230, 230, 203);
+    padding: 13px;
+    border-radius: 10px;
+    width: 300px;
+    margin-left: 34px;
+    margin-bottom: 12px;
+}
+.frgt{
+    text-align: center;
+}
+.frgt a{
+    text-decoration: none;
+    font-size: 15px;
+    color: gray;
+    padding-bottom: 10px;
+}
+.signin{
+    width: 150px;
+    height: 26px;
+    font-size: 21px;
+    text-align: center;
+    background-color: #2a4d69;
+    border-radius: 10px;
+    margin-left: 121px;
+    margin-top: 10px;
+}
+.signin a{
+    text-decoration: none;
+    color: white;
+}
+.amar{
+    border-radius: 5px;
+    height: 500px;
+    background-color: #4b86b4;
+    
+}
+.lasth1{
+    vertical-align: top;
+    color:#e3edf4;
+    padding-bottom: 95px;
+    padding-top: 40px;
+}
+h3{
+    color:#e3edf4;
+    font-size: 17px;
+    padding-bottom: 50px;
+    padding-top: 45px;
+    padding-bottom: 95px;
+    text-align: center;
+}
+.signup{
+    width: 200px;
+    height: 26px;
+    font-size: 24px;
+    padding-left: 133px;
+    padding-top: 40px;
+     
+}
+.signup a{
+    text-align: center;
+    text-decoration: none;
+    color: #e3edf4;
+}
